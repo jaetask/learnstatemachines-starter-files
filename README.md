@@ -2,7 +2,7 @@
 
 # Learn State Machines - LearnStateMachines.com
 
-Starter files for the Learn State Machines course. 
+Starter files for the Learn State Machines course. ≤
 
 The code in this repo meant to be a reference point for anyone following along with the video course.
 
